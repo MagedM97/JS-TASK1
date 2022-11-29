@@ -5980,7 +5980,6 @@
     margin-left: 15%;
     list-style: none;
   }
-  
   .carousel-indicators li {
     box-sizing: content-box;
     flex: 0 1 auto;
@@ -9710,4 +9709,12 @@
       transform: translateY(-15px);
     }
   }
-  
+  .numOfProducts{
+    align-items: center;
+  }
+  .numOfProducts>button{
+    padding: 0 10px;
+    margin: 0 10px;
+    color: yellow;
+    background-color: #062c33;
+  }
